@@ -12,6 +12,5 @@
     <modules>
         <module>rabbitmq-console</module>
         <module>spring-rabbitmq</module>
-        <module>rabbitmq-home-work</module>
     </modules>
 </project>
